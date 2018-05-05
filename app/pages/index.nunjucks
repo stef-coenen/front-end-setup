@@ -1,0 +1,14 @@
+<!-- index.nunjucks -->
+{% extends "layout.nunjucks" %} {% block title %}Front end setup{% endblock %} {% block content %} {% include "components/_header.nunjucks"
+%}
+<section class="main-content my-3">
+    <div class="container">
+        <h1>Front end setup template</h1>
+        <p>Source can be found at Github:
+            <a href="https://github.com/stef-coenen/front-end-setup">Here
+                <i class="fa fa-github"></i>
+            </a>
+        </p>
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,16 @@
+<footer class="page-footer section-gray-200">
+    <div class="container">
+
+    </div>
+
+    <div class="page-footer-copy text-center section-black pt-2 pb-1">
+        <div class="container">
+            <p>© 2018
+                <br/>
+                <a href="https://www.thebrownfox.be/" target="_blank">Design by The Brown Fox
+                    <img src="https://www.thebrownfox.be/design/img/logo/logo-thebrownfox-black.svg" style="height: 18px;" />
+                </a>
+            </p>
+        </div>
+    </div>
+</footer>
